@@ -1,10 +1,3 @@
 1.De momento tengo he abierto los archivos, en esto tengo que revisar la función openfiles para que no sea tan larga y no me de problemas.
 2.Por otro lado he buscado el PATH para que luego mi progama sepa donde buscar al ejecutar los comandos con execve.
 3.Una vez tenga la lista de direcciones tengo que probar cual es la valida con access.
-
-
-
-FUNCIONES LIBFT A AÑADIR:
-ft_strlen
-ft_split
-ft_strnstr (la tengo que editar del orginal, sin len)
